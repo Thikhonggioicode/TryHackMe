@@ -3,5 +3,5 @@
 This is a Walkthrough 
 
 Why the git push got so many problem
-![image](https://github.com/user-attachments/assets/c8ef54d1-1b75-4757-90f9-0b7f6ec5b4e6)
+![image](https://github.com/user-attachments/assets/1147cfcf-126d-4737-9e70-4c43f66f1ec0)
 Check check
