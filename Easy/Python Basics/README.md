@@ -25,31 +25,32 @@ Link Room: https://tryhackme.com/r/room/pythonbasics
 # **Task 3: Mathematical Operators** 
 
 Things you need to know before get into the **If else and loop**
-![alt text](image-7.png)
+![alt text](image-4.png)
 
-![alt text](image-8.png)
+![alt text](image-5.png)
+
 
 **Question 1:** In the code editor, print the result of 21 + 43. What is the flag?
 
-![alt text](image-3.png)
+![alt text](image-6.png)
 
 **Answer: THM{ADDITI0N}**
 
 **Question 2:** Print the result of 142 - 52. What is the flag?
 
-![alt text](image-4.png)
+![alt text](image-3.png)
 
 **Answer: THM{SUBTRCT}**
 
 **Question 3:** Print the result of 10 * 342. What is the flag?
 
-![alt text](image-5.png)
+![alt text](image-7.png)
 
 **Answer: THM{MULTIPLICATION_PYTHON}**
 
 **Question 4:** Print the result of 5 squared. What is the flag?
 
-![alt text](image-6.png)
+![alt text](image-8.png)
 
 **Answer: THM{EXP0N3NT_POWER}**
 
@@ -65,11 +66,11 @@ Things you need to know before get into the **If else and loop**
 
 **Question 3:** On another new line, print out the value of height. What is the flag that appears?
 
-![alt text](image-12.png)
+![alt text](image-11.png)
 
 You just need to follow the instruction and *WALLA*  we have the flag.
 
-![alt text](image-11.png)
+![alt text](image-12.png)
 
 **Answer: THM{VARIABL3S}**
 
@@ -79,7 +80,7 @@ You just need to follow the instruction and *WALLA*  we have the flag.
 
 # **Task 6:  Introduction to If Statements**
 
-**Question 1:**
+**Question 1:** No Need Answer
 
 ![alt text](image-13.png)
 
@@ -87,11 +88,11 @@ You just need to follow the instruction and *WALLA*  we have the flag.
 
 - Just give a thought first. Then coding for a few minutes and run it on the **shipping.py**. If you don't get the flag then use the hints (This is unstimulated) but try to understand after review the code.
 
-![alt text](image-16.png)
+
 
 Run the code and get the flag. 
 
-![alt text](image-14.png)
+![alt text](image-15.png)
 
 **Answer: THM{IF_STATEMENT_SHOPPING}**
 
@@ -99,7 +100,9 @@ Run the code and get the flag.
 
 To get this flag you need to change the **customer_basket_cost** to 101 (so that it will be *True* in the first condition - customer pay over $100 ) and get the second flag.
 
-![alt text](image-15.png)
+![alt text](image-16.png)
+
+![alt text](image-14.png)
 
 **Answer: THM{MY_FIRST_APP}**
 
@@ -109,7 +112,7 @@ To get this flag you need to change the **customer_basket_cost** to 101 (so that
 
 Here's the code I use. Why range got *51* in there? It's easy to say that if you don't set the data for *i = 1* like the *while* than i will be count as 0 because 0 is often the starting number in programing.
 
-![alt text](image-18.png)
+![alt text](image-17.png)
 
 **Answer: THM{L00PS_WHILE_FOR}** 
 
