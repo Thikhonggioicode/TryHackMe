@@ -118,3 +118,61 @@ Here's the code I use. Why range got *51* in there? It's easy to say that if you
 
 # **Task 8: Introduction to Functions**
 
+Everything already got explain in this room so I'll solved the question instead giving you the infor of the *def*. 
+
+**Question 1:** Once you've written the bitcoinToUSD function, use it to calculate the value of your Bitcoin in USD, and then create an if statement to determine if the value falls below $30,000; if it does, output a message to alert you (via a print statement).
+
+![alt text](image-19.png)
+
+After you write this code and run it *by yourself* you will get the flag.
+
+![alt text](image-18.png)
+
+**Answer: THM{BITC0IN_INVESTOR}** 
+
+**Question 2:** 1 Bitcoin is now worth $24,000. In the code editor on line 14, update the bitcoin_to_usd variable value to 24000 and see if your Python program recognises that your investment is below the $30,000 threshold.
+
+![alt text](image-20.png)
+
+**Answer: No Answer Needed**
+
+# **Task 9: Files** 
+
+3 things you need to remember if you want to know how to get interact with the text file that's : 
+- Read
+- Write 
+- Close (Only use at the end in the write command)
+
+**Question 1:** In the code editor, write Python code to read the flag.txt file. What is the flag in this file?
+
+![alt text](image-21.png)
+
+To read the *flag.txt* file you need to know how to read file with script
+(thing already explain on this room). Give a try.
+
+**This is the code I use to read it.**
+
+![alt text](image-22.png)
+
+**Answer: THM{F1LE_R3AD}** 
+
+# **Task 10: Imports**
+
+```Import datetime
+flag = datetime.datetime.now()
+print(flag)
+```
+
+This is how you use it: 
+
+*Calling libaryname.methodname()* 
+
+![alt text](image-23.png)
+
+**Question 1:**  Read the task and run the Python example code above in the code editor on the right.
+
+**Answer: No Answer Needed**
+
+
+
+# *This is the easy room for beginner want to know more about python. Pls give a like for my writeup (T_T)*
