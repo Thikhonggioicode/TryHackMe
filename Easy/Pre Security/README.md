@@ -4,6 +4,7 @@
     - Detecting intrusions when they occur and responding properly
 
 # Task 1: Introduction to Defensive Security 
+Some of the tasks that are related to defensive security include:
 - User cyber security awareness:
 
 - Documenting and managing assets:
