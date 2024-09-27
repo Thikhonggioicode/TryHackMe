@@ -3,7 +3,7 @@
     - Preventing intrusions from occurring
     - Detecting intrusions when they occur and responding properly
 
-# Introduction to Defensive Security 
+# Task 1: Introduction to Defensive Security 
 - User cyber security awareness:
 
 - Documenting and managing assets:
