@@ -4,4 +4,8 @@
 
 **Answer: Network**
 
-# Task 2: What is 
+# Task 2: What is the Internet? 
+
+**Question 1:** Who invented the World Wide Web?
+
+**Answer: Tim Berners-Lee**
