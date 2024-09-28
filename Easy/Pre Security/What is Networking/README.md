@@ -7,7 +7,7 @@
 # Task 2: What is the Internet? 
 
 **Question 1:** Who invented the World Wide Web?
-
+![alt text](image-8.png)
 **Answer: Tim Berners-Lee**
 
 # Task 3: Identifying Devices on a Network
@@ -32,4 +32,20 @@
 ![alt text](image-4.png)
 **Answer: THM{YOU_GOT_ON_TRYHACKME}**
 
-# Task 4: 
+# Task 4: Ping(ICMP- Internet Control Message Protocol)
+
+**Question 1:** What protocol does ping use?
+![alt text](image-5.png)
+**Answer: ICMP**
+
+**Question 2:** What is the syntax to ping 10.10.10.10?
+![alt text](image-6.png)
+**Answer: ping 10.10.10.10**
+
+**Question 3:** What flag do you get when you ping 8.8.8.8?
+![alt text](image-7.png)
+**Answer: THM{I_PINGED_THE_SERVER}**
+
+# Task 5 : Continue Your Learning : Intro to LAN 
+
+**Answer: No Answer Needed** 
