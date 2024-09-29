@@ -44,7 +44,7 @@
 
 **Question 3:** What flag do you get when you ping 8.8.8.8?
 ![alt text](image-7.png)
-**Answer: THM{I_PINGED_THE_SERVER}**
+**Answer: THM{I_PINGED_THE_SERVER}*
 
 # Task 5 : Continue Your Learning : Intro to LAN 
 
